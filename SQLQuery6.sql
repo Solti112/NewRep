@@ -7,7 +7,7 @@ USE projectdbb;
 --Medical VARCHAR(20), 
 --License VARCHAR(20),
 --Full_name VARCHAR(30), 
---DOB DATE, 
+--DOB DATE, fhh
 --Salary DECIMAL(10,2) 
 --);
 
